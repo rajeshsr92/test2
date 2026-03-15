@@ -303,7 +303,7 @@ export default function App() {
             >
               <div className="absolute inset-0 bg-gradient-to-br from-brand-accent/20 to-transparent z-0" />
               <img
-  src="/profile.png"
+  src="/IMG19.png"
   alt="Rajesh Mullapudi"
   loading="lazy"
                 className="w-full h-full object-cover rounded-2xl grayscale hover:grayscale-0 transition-all duration-700"
