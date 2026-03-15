@@ -140,9 +140,14 @@ export default function App() {
                       This certification validates the professional expertise and commitment to excellence in {selectedCert.title.includes('Revenue') ? 'Healthcare Revenue Cycle Management' : 'Project Management'}.
                     </p>
                   </div>
-                  <button className="mt-12 px-8 py-3 rounded-full bg-white text-black font-semibold hover:bg-brand-accent transition-all">
-                    Verify Credential
-                  </button>
+                  <a
+  href={selectedCert.title.includes("CRCR") ? "/crcr1.png" : "#"}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="mt-12 inline-block px-8 py-3 rounded-full bg-white text-black font-semibold hover:bg-brand-accent transition-all"
+>
+  Verify Credential
+</a>
                 </div>
               </div>
             </motion.div>
