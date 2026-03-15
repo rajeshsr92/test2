@@ -302,9 +302,10 @@ export default function App() {
               className="relative aspect-[3/4] rounded-3xl overflow-hidden glass p-4"
             >
               <div className="absolute inset-0 bg-gradient-to-br from-brand-accent/20 to-transparent z-0" />
-              <img 
-                src="/profile.png" 
-                alt="Rajesh Mullapudi" 
+              <img
+  src="/profile.png"
+  alt="Rajesh Mullapudi"
+  loading="lazy"
                 className="w-full h-full object-cover rounded-2xl grayscale hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
               />
