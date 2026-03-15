@@ -88,25 +88,25 @@ export const CERTIFICATIONS: Certification[] = [
     title: "Certified Revenue Cycle Representative (CRCR)",
     issuer: "HFMA",
     date: "2025",
-    image: "/Certified Revenue Cycle Representative (CRCR).png"
+    image: "/crcr.png"
   },
   {
     title: "Certified Specialist Ambulatory Practice Management (CSAPM)",
     issuer: "HFMA",
     date: "2026",
-    image: "/Certified Specialist Ambulatory Practice Management (CSAPM).png"
+    image: "/csapm.png"
   },
   {
     title: "Quality Certification",
     issuer: "Six Sigma / Lean",
     date: "2021",
-    image: "/Quality Certification.jpg"
+    image: "/quality.jpg"
   },
   {
     title: "Be10X AI Workshop",
     issuer: "Be10X",
     date: "2024",
-    image: "/Be10X.png"
+    image: "/be10x.png"
   },
   {
     title: "PMP Examination Eligibility",

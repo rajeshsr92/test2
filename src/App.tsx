@@ -303,7 +303,7 @@ export default function App() {
             >
               <div className="absolute inset-0 bg-gradient-to-br from-brand-accent/20 to-transparent z-0" />
               <img 
-                src="/IMG19.png" 
+                src="/profile.png" 
                 alt="Rajesh Mullapudi" 
                 className="w-full h-full object-cover rounded-2xl grayscale hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
@@ -455,7 +455,7 @@ export default function App() {
             >
               <div className="aspect-video bg-white/5 relative flex items-center justify-center overflow-hidden">
                 <img 
-                  src="/Be10X.png" 
+                  src="/be10x.png" 
                   alt="Be10X AI Workshop" 
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                   referrerPolicy="no-referrer"
