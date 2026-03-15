@@ -1,11 +1,18 @@
-<div align="center">
+---
+title: Rajesh Mullapudi Portfolio
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# Rajesh Mullapudi Portfolio
 
-  <h1>Built with AI Studio</h2>
+This is a React-based portfolio application deployed using Docker on Hugging Face Spaces.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Deployment Instructions
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+1.  Export the code as a ZIP from AI Studio.
+2.  Upload all files (including `Dockerfile`, `nginx.conf`, and this `README.md`) to your Hugging Face Space.
+3.  Ensure the Space SDK is set to **Docker**.
